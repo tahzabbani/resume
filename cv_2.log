@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.12)  12 OCT 2020 21:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.12)  18 NOV 2020 17:18
 entering extended mode
 **./cv_2.tex
 (cv_2.tex
@@ -76,7 +76,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 {C:/Users/toosh/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] ) 
 Here is how much of TeX's memory you used:
  521 strings out of 480236
- 8842 string characters out of 2880557
+ 8863 string characters out of 2880557
  277920 words of memory out of 3000000
  17146 multiletter control sequences out of 15000+200000
  536689 words of font info for 34 fonts, out of 3000000 for 9000
@@ -89,7 +89,7 @@ s/toosh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 mbx12.pfb><C:/Users/toosh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
 onts/cm/cmr10.pfb><C:/Users/toosh/AppData/Local/Programs/MiKTeX/fonts/type1/pub
 lic/amsfonts/cm/cmsl10.pfb>
-Output written on cv_2.pdf (1 page, 63242 bytes).
+Output written on cv_2.pdf (1 page, 63252 bytes).
 PDF statistics:
  27 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
