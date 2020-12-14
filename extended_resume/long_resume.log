@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.12)  14 DEC 2020 05:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.12)  14 DEC 2020 07:19
 entering extended mode
 **./long_resume.tex
 (long_resume.tex
@@ -285,23 +285,22 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 {C:/Users/toosh/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2] ) 
 Here is how much of TeX's memory you used:
- 5679 strings out of 480236
- 89205 string characters out of 2880557
+ 5676 strings out of 480236
+ 89169 string characters out of 2880557
  402233 words of memory out of 3000000
- 22166 multiletter control sequences out of 15000+200000
- 536689 words of font info for 34 fonts, out of 3000000 for 9000
+ 22164 multiletter control sequences out of 15000+200000
+ 536354 words of font info for 33 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,8n,66p,213b,407s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users
-\toosh\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/
-Users/toosh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10
-.pfb><C:/Users/toosh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
-cm/cmbx12.pfb><C:/Users/toosh/AppData/Local/Programs/MiKTeX/fonts/type1/public/
-amsfonts/cm/cmr10.pfb><C:/Users/toosh/AppData/Local/Programs/MiKTeX/fonts/type1
-/public/amsfonts/cm/cmsl10.pfb>
-Output written on long_resume.pdf (2 pages, 66988 bytes).
+ 60i,8n,66p,213b,405s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/
+toosh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><
+C:/Users/toosh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmb
+x12.pfb><C:/Users/toosh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmr10.pfb><C:/Users/toosh/AppData/Local/Programs/MiKTeX/fonts/type1/publi
+c/amsfonts/cm/cmsl10.pfb>
+Output written on long_resume.pdf (2 pages, 67948 bytes).
 PDF statistics:
- 38 PDF objects out of 1000 (max. 8388607)
+ 33 PDF objects out of 1000 (max. 8388607)
  3 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
