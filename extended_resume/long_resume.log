@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.12)  14 DEC 2020 04:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.12)  14 DEC 2020 05:16
 entering extended mode
-**./cv_2.tex
-(cv_2.tex
+**./long_resume.tex
+(long_resume.tex
 LaTeX2e <2020-10-01> patch level 1
 L3 programming layer <2020-10-05> xparse <2020-03-03> (res.cls
 Document Style `res' <26 Sep 89>.
@@ -217,7 +217,7 @@ File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
 \l__kernel_color_stack_int=\count196
 \l__pdf_internal_box=\box47
 )
-No file cv_2.aux.
+No file long_resume.aux.
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
 LaTeX Font Info:    ... okay on input line 26.
 LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
@@ -283,25 +283,25 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 34.
  [1
 
-{C:/Users/toosh/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] ) 
+{C:/Users/toosh/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2] ) 
 Here is how much of TeX's memory you used:
- 5678 strings out of 480236
- 89095 string characters out of 2880557
- 402226 words of memory out of 3000000
+ 5679 strings out of 480236
+ 89205 string characters out of 2880557
+ 402233 words of memory out of 3000000
  22166 multiletter control sequences out of 15000+200000
  536689 words of font info for 34 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,8n,66p,206b,330s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\too
-sh\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/User
-s/toosh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb
-><C:/Users/toosh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
-mbx12.pfb><C:/Users/toosh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
-onts/cm/cmr10.pfb><C:/Users/toosh/AppData/Local/Programs/MiKTeX/fonts/type1/pub
-lic/amsfonts/cm/cmsl10.pfb>
-Output written on cv_2.pdf (1 page, 65089 bytes).
+ 60i,8n,66p,213b,407s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users
+\toosh\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/
+Users/toosh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10
+.pfb><C:/Users/toosh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
+cm/cmbx12.pfb><C:/Users/toosh/AppData/Local/Programs/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmr10.pfb><C:/Users/toosh/AppData/Local/Programs/MiKTeX/fonts/type1
+/public/amsfonts/cm/cmsl10.pfb>
+Output written on long_resume.pdf (2 pages, 66988 bytes).
 PDF statistics:
- 34 PDF objects out of 1000 (max. 8388607)
- 2 named destinations out of 1000 (max. 500000)
+ 38 PDF objects out of 1000 (max. 8388607)
+ 3 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
