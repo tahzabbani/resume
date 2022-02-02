@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.2.19)  8 NOV 2021 18:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.2.19)  13 JAN 2022 00:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**long_resume.tex
-(./long_resume.tex
+**Robbani_Tahseen.tex
+(./Robbani_Tahseen.tex
 LaTeX2e <2020-02-02> patch level 2
 L3 programming layer <2020-02-14> (./res.cls
 Document Style `res' <26 Sep 89>.
@@ -213,7 +213,7 @@ File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
 LaTeX Warning: Unused global option(s):
     [10pt].
 
-No file long_resume.aux.
+No file Robbani_Tahseen.aux.
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
 LaTeX Font Info:    ... okay on input line 26.
 LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
@@ -275,33 +275,33 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 34.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 34.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 109.
 
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 166.
- [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 166.
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 166.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 166.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 166.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 109.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 109.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 109.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 109.
  ) 
 Here is how much of TeX's memory you used:
- 5593 strings out of 483183
- 85892 string characters out of 5966292
- 352394 words of memory out of 5000000
- 20542 multiletter control sequences out of 15000+600000
- 533604 words of font info for 28 fonts, out of 8000000 for 9000
+ 5595 strings out of 483183
+ 85950 string characters out of 5966292
+ 352398 words of memory out of 5000000
+ 20544 multiletter control sequences out of 15000+600000
+ 533939 words of font info for 29 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 34i,8n,29p,241b,403s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb>
-Output written on long_resume.pdf (2 pages, 66186 bytes).
+ 34i,8n,29p,215b,324s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/tahzabbani/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm100
+0.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pf
+b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb>
+Output written on Robbani_Tahseen.pdf (1 page, 62074 bytes).
 PDF statistics:
  36 PDF objects out of 1000 (max. 8388607)
  27 compressed objects within 1 object stream
- 3 named destinations out of 1000 (max. 500000)
+ 2 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
